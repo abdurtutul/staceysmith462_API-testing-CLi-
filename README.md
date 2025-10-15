@@ -51,6 +51,9 @@ After execution, an advanced HTML report is generated:
 ```plaintext
 📁 reports/staceySmith-newman-report.html
 ```
+**Report Preview:**  
+<img src="newman_report.png" alt="Newman Report Screenshot" width="400px">
+
 
 **Sample Run Summary**:
 
